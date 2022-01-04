@@ -12,21 +12,70 @@
 	"des": "站在西伯利亚的最顶端"
   },
   {
-    "name": "Example", 
-	"link": "https://example.io/", 
-	"avatar": "https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpeg", 
-	"des": "这是一个示例。"
+    "name": "丧狼", 
+	"link": "https://wcns.one/", 
+	"avatar": "https://www.wcns.one/wp-content/uploads/2022/01/aelq5-z4wad-001.ico", 
+	"des": "mourning wolf"
   },
   {
     "name": "咕咕三原", 
 	"link": "https://xn--ehqz9kbvaa.wang/", 
-	"avatar": "咕咕三原小窝/记录美好，赠与未来。", 
+	"avatar": "https://akaik2233-1257232308.cos-website.ap-guangzhou.myqcloud.com/img/gugusanyuan.jpg?s=220&r=X&d=mm", 
+	"des": "咕咕三原小窝/记录美好，赠与未来。"
+  },
+  {
+    "name": "xtlsoft", 
+	"link": "https://blog.xtlsoft.top/", 
+	"avatar": "https://avatar.dawnlab.me/github/xtlsoft", 
 	"des": "这是一个示例。"
   },
   {
-    "name": "Example", 
-	"link": "https://example.io/", 
-	"avatar": "https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpeg", 
-	"des": "这是一个示例。"
-  }
+    "name": "摩尔の镇", 
+	"link": "https://mole9630.top/", 
+	"avatar": "https://sdn.geekzu.org/avatar/1fce1a623a29c49a4758985de399948b?s=80&d=mm&r=g", 
+	"des": "| モル·町/一座奇妙的小孤岛."
+  },
+  {
+    "name": "白羊座の漫谈", 
+	"link": "https://i-moe.eu.org/", 
+	"avatar": "https://i-moe.eu.org/favicon.ico", 
+	"des": "ACG爱好者"
+  },
+  {
+    "name": "Whr", 
+	"link": "https://whrblog.online", 
+	"avatar": "https://i.loli.net/2021/08/23/TiEWIRoPFNYbcrS.jpg", 
+	"des": "Photography has no rules. If you like the picture, that is a good one.
+"
+  },
+  {
+    "name": "Activite Studio", 
+	"link": "http://5000.free.idcfengye.com/", 
+	"avatar": "", 
+	"des": "Activite Studio"
+  },
+  {
+    "name": "开源音响项目", 
+	"link": "", 
+	"avatar": "", 
+	"des": ""
+  },
+  {
+    "name": "某等bbs", 
+	"link": "https://bbs.maoware-lgbt.pw", 
+	"avatar": "https://cdn.jsdelivr.net/gh/futoari-yangdongdong/cdnfutoari/IMG_4405.JPG", 
+	"des": "站在西伯利亚最顶端"
+  },
+  {
+    "name": "毛云主机", 
+	"link": "https://host.maoware-lgbt.pw", 
+	"avatar": "https://cdn.jsdelivr.net/gh/futoari-yangdongdong/cdnfutoari/IMG_4405.JPG", 
+	"des": "站在西伯利亚最顶端"
+  },
+  {
+    "name": "Adoreu.ru", 
+	"link": "https://www.adoreu.ru", 
+	"avatar": "https://cdn.jsdelivr.net/gh/futoari-yangdongdong/cdnfutoari/IMG_4405.JPG", 
+	"des": "总有那么一个人或一些人给你关怀"
+  }	
 ]

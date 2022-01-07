@@ -12,6 +12,18 @@
 	"des": "站在西伯利亚的最顶端"
   },
   {
+    "name": "Dorf表白墙", 
+	"link": "https://dorf.top/", 
+	"avatar": "https://dorf.top/assets/img/favicon.ico", 
+	"des": "来表白吧（（"
+  },
+    {
+    "name": "DorfWhisper", 
+	"link": "https://w.dorf.top/", 
+	"avatar": "https://dorf.top/assets/img/favicon.ico", 
+	"des": "是悄悄话哦（（"
+  },
+  {
     "name": "丧狼", 
 	"link": "https://wcns.one/", 
 	"avatar": "https://www.wcns.one/wp-content/uploads/2022/01/aelq5-z4wad-001.ico", 
@@ -56,7 +68,7 @@
   {
     "name": "开源音响项目", 
 	"link": "", 
-	"avatar": "", 
+	"avatar": "https://cdn.jsdelivr.net/gh/futoari-yangdongdong/cdnfutoari/IMG_4405.JPG", 
 	"des": ""
   },
   {

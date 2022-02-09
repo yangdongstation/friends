@@ -77,11 +77,17 @@
 	"avatar": "https://i.zerodream.net/86b5133c13a7e7109b89f8d24fc0b746.jpg", 
 	"des": "Share somethings with you"
   },
-    {
+  {
     "name": "OpenSoucePlaza", 
 	"link": "https://os.geekmoor.top/", 
 	"avatar": "https://os.geekmoor.top/usr/themes/Miracles/favicon.ico", 
 	"des": "开源万岁（（"
+  },
+  {
+    "name": "chihuo2104の部落格", 
+	"link": "https://blog.chihuo2104.dev/", 
+	"avatar": "https://secure.gravatar.com/avatar/e79c7e4cb92ab584221958a855ea1a3e?s=100&r=G&d=", 
+	"des": "一个沙雕的博客"
   },
   {
     "name": "Activite Studio", 

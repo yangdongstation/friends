@@ -29,11 +29,17 @@
 	"avatar": "https://dorf.top/assets/img/favicon.ico", 
 	"des": "来表白吧（（"
   },
-    {
+  {
     "name": "DorfWhisper", 
 	"link": "https://w.dorf.top/", 
 	"avatar": "https://dorf.top/assets/img/favicon.ico", 
 	"des": "是悄悄话哦（（"
+  },
+  {
+    "name": "DorfChat", 
+	"link": "https://chat.dorf.top/", 
+	"avatar": "https://dorf.top/assets/img/favicon.ico", 
+	"des": "是聊天室哦（（"
   },
   {
     "name": "丧狼", 

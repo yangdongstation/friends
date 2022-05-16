@@ -90,6 +90,12 @@
 	"des": "Share somethings with you"
   },
   {
+    "name": "Leo's Blog", 
+	"link": "https://leo.moe/", 
+	"avatar": "https://secure.gravatar.com/avatar/6f294cb5eea714c7df0f3504b238fdf0?s=100&r=G", 
+	"des": "一个默默无闻在校大学生 Leo の博客"
+  },
+  {
     "name": "OpenSoucePlaza", 
 	"link": "https://os.geekmoor.top/", 
 	"avatar": "https://os.geekmoor.top/usr/themes/Miracles/favicon.ico", 

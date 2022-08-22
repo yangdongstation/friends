@@ -6,6 +6,12 @@
 	"des": "那些秋叶"
   },
   {
+    "name": "MtfWiki", 
+	"link": "https://mtf.wiki/", 
+	"avatar": "https://mtf.wiki/new/mtf-wiki-square.svg", 
+	"des": "如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。"
+  },
+  {
     "name": "Группа компаний «Калашников»", 
 	"link": "https://kalashnikovgroup.ru/", 
 	"avatar": "https://kalashnikov.akamaized.net/favicon/apple-icon-72x72.png", 

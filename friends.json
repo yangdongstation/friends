@@ -1,112 +1,112 @@
 {
  "My friends": [
    {
-        "名称": "那些秋叶", 
-	"链接": "https://www.one-among.us/", 
-	"简介": "那些秋叶",
-	"图标": "https://www.one-among.us/favicon.png"
-  },
-  {
-        "名称": "MtfWiki", 
-	"链接": "https://mtf.wiki/", 
-	"简介": "如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。",
-	"图标": "https://mtf.wiki/new/mtf-wiki-square.svg"
-  },
-  {
-        "名称": "Группа компаний «Калашников»", 
-	"链接": "https://kalashnikovgroup.ru/", 
-	"简介": "Группа компаний «Калашников»",
-	"图标": "https://kalashnikov.akamaized.net/favicon/apple-icon-72x72.png"
-  },
-  {
-        "名称": "Eltrac", 
-	"链接": "https://guhub.cn/", 
-	"简介": "暗夜行路，终遇奇迹。",
-	"图标": "https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpeg"
-  },
-  {
-        "名称": "杨冬blog", 
-	"链接": "https://D0N2.in", 
-	"简介": "站在西伯利亚的最顶端",
-	"图标": "https://d0n2.in/avatar.jpeg"
-  },
-  {
-        "名称": "丧狼", 
-	"链接": "https://1949.su/", 
-	"简介": "Mourning Wolf",
-	"图标": "https://1949.su/wp-content/uploads/2022/02/aelq5-z4wad-001.ico"
-  },
-  {
-        "名称": "咕咕三原", 
-	"链接": "https://xn--ehqz9kbvaa.wang/", 
-	"简介": "咕咕三原小窝/记录美好，赠与未来。",
-        "图标": "https://akaik2233-1257232308.cos-website.ap-guangzhou.myqcloud.com/img/gugusanyuan.jpg?s=220&r=X&d=mm"
-  },
-  {
-        "名称": "xtlsoft", 
-	"链接": "https://blog.xtlsoft.top/", 
-	"简介": "这是xtlsoft（",
-	"图标": "https://avatar.dawnlab.me/github/xtlsoft"
-  },
-  {
-        "名称": "摩尔の镇", 
-	"链接": "https://mole9630.top/", 
-	"简介": "| モル·町/一座奇妙的小孤岛."
-	"图标": "https://sdn.geekzu.org/avatar/1fce1a623a29c49a4758985de399948b?s=80&d=mm&r=g"
-  },
-  {
-        "名称": "白羊座の漫谈", 
-	"链接": "https://i-moe.eu.org/", 
-	"简介": "ACG爱好者"
-	"图标": "https://i-moe.eu.org/favicon.ico"
-  },
-  {
-        "名称": "Whr", 
-	"链接": "https://whrblog.online", 
-	"简介": "Photography has no rules. If you like the picture, that is a good one."
-	"图标": "https://s2.loli.net/2021/12/26/bC9xnq85AEvzPV1.png"
-  },
-  {
-        "名称": "Lazy's Blog", 
-	"链接": "https://blog.imlazy.ink:233/", 
-	"简介": "Share somethings with you"
-	"图标": "https://i.zerodream.net/86b5133c13a7e7109b89f8d24fc0b746.jpg"
-  },
-  {
-        "名称": "Leo's Blog", 
-	"链接": "https://leo.moe/", 
-	"简介": "一个默默无闻在校大学生 Leo の博客"
-	"图标": "https://secure.gravatar.com/avatar/6f294cb5eea714c7df0f3504b238fdf0?s=100&r=G"
-  },
-  {
-        "名称": "chihuo2104の部落格", 
-	"链接": "https://blog.chihuo2104.dev/", 
-	"简介": "一个沙雕的博客"
-	"图标": "https://cdn.jsdelivr.net/gh/chihuo2104/cdn/image/blog-style/avatar.jpg"
-  },
-  {
-        "名称": "Steven_MengのBlog", 
-	"链接": "https://gaisaiyuno.github.io", 
-	"简介": "数学、计算机、随笔"
-	"图标": "https://fastly.jsdelivr.net/gh/GaisaiYuno/imghost/avatar_1.jpg"
-  },
-  {
-        "名称": "Activite Studio", 
-	"链接": "http://5000.free.idcfengye.com/", 
-	"简介": "Activite Studio"
-	"图标": ""
-  },
-  {
-        "名称": "洛仙璃の幻梦",
-	"链接": "https://mzwing.eu.org",
-	"简介": "如光似幻，如影随形"
-	"图标": "https://mzwing.eu.org/favicon.ico"
-  },
-  {
-        "名称": "木屐落在水洼了", 
-	"链接": "https://mujitogawa.github.io/", 
-	"简介": "その人の声を 聞くだけで 失神しそうな"
-	"图标": "https://ttfou.com/images/2022/12/31/bc4150db1a70a1462e9c0099c0b7067d.png"
-  }	
-]
+     "名称": "那些秋叶",
+     "链接": "https://www.one-among.us/",
+     "简介": "那些秋叶",
+     "图标": "https://www.one-among.us/favicon.png"
+   },
+   {
+     "名称": "MtfWiki",
+     "链接": "https://mtf.wiki/",
+     "简介": "如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。",
+     "图标": "https://mtf.wiki/new/mtf-wiki-square.svg"
+   },
+   {
+     "名称": "Группа компаний «Калашников»",
+     "链接": "https://kalashnikovgroup.ru/",
+     "简介": "Группа компаний «Калашников»",
+     "图标": "https://kalashnikov.akamaized.net/favicon/apple-icon-72x72.png"
+   },
+   {
+     "名称": "Eltrac",
+     "链接": "https://guhub.cn/",
+     "简介": "暗夜行路，终遇奇迹。",
+     "图标": "https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpeg"
+   },
+   {
+     "名称": "杨冬blog",
+     "链接": "https://D0N2.in",
+     "简介": "站在西伯利亚的最顶端",
+     "图标": "https://d0n2.in/avatar.jpeg"
+   },
+   {
+     "名称": "丧狼",
+     "链接": "https://1949.su/",
+     "简介": "Mourning Wolf",
+     "图标": "https://1949.su/wp-content/uploads/2022/02/aelq5-z4wad-001.ico"
+   },
+   {
+     "名称": "咕咕三原",
+     "链接": "https://xn--ehqz9kbvaa.wang/",
+     "简介": "咕咕三原小窝/记录美好，赠与未来。",
+     "图标": "https://akaik2233-1257232308.cos-website.ap-guangzhou.myqcloud.com/img/gugusanyuan.jpg?s=220&r=X&d=mm"
+   },
+   {
+     "名称": "xtlsoft",
+     "链接": "https://blog.xtlsoft.top/",
+     "简介": "这是xtlsoft（",
+     "图标": "https://avatar.dawnlab.me/github/xtlsoft"
+   },
+   {
+     "名称": "摩尔の镇",
+     "链接": "https://mole9630.top/",
+     "简介": "| モル·町/一座奇妙的小孤岛.",
+     "图标": "https://sdn.geekzu.org/avatar/1fce1a623a29c49a4758985de399948b?s=80&d=mm&r=g"
+   },
+   {
+     "名称": "白羊座の漫谈",
+     "链接": "https://i-moe.eu.org/",
+     "简介": "ACG爱好者",
+     "图标": "https://i-moe.eu.org/favicon.ico"
+   },
+   {
+     "名称": "Whr",
+     "链接": "https://whrblog.online",
+     "简介": "Photography has no rules. If you like the picture, that is a good one.",
+     "图标": "https://s2.loli.net/2021/12/26/bC9xnq85AEvzPV1.png"
+   },
+   {
+     "名称": "Lazy's Blog",
+     "链接": "https://blog.imlazy.ink:233/",
+     "简介": "Share somethings with you",
+     "图标": "https://i.zerodream.net/86b5133c13a7e7109b89f8d24fc0b746.jpg"
+   },
+   {
+     "名称": "Leo's Blog",
+     "链接": "https://leo.moe/",
+     "简介": "一个默默无闻在校大学生 Leo の博客",
+     "图标": "https://secure.gravatar.com/avatar/6f294cb5eea714c7df0f3504b238fdf0?s=100&r=G"
+   },
+   {
+     "名称": "chihuo2104の部落格",
+     "链接": "https://blog.chihuo2104.dev/",
+     "简介": "一个沙雕的博客",
+     "图标": "https://cdn.jsdelivr.net/gh/chihuo2104/cdn/image/blog-style/avatar.jpg"
+   },
+   {
+     "名称": "Steven_MengのBlog",
+     "链接": "https://gaisaiyuno.github.io",
+     "简介": "数学、计算机、随笔",
+     "图标": "https://fastly.jsdelivr.net/gh/GaisaiYuno/imghost/avatar_1.jpg"
+   },
+   {
+     "名称": "Activite Studio",
+     "链接": "http://5000.free.idcfengye.com/",
+     "简介": "Activite Studio",
+     "图标": ""
+   },
+   {
+     "名称": "洛仙璃の幻梦",
+     "链接": "https://mzwing.eu.org",
+     "简介": "如光似幻，如影随形",
+     "图标": "https://mzwing.eu.org/favicon.ico"
+   },
+   {
+     "名称": "木屐落在水洼了",
+     "链接": "https://mujitogawa.github.io/",
+     "简介": "その人の声を 聞くだけで 失神しそうな",
+     "图标": "https://ttfou.com/images/2022/12/31/bc4150db1a70a1462e9c0099c0b7067d.png"
+   }
+ ]
 }

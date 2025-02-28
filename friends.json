@@ -1,39 +1,34 @@
-[
+{
+ "My friends": [
    {
-    "name": "那些秋叶", 
-	"link": "https://www.one-among.us/", 
-	"avatar": "https://www.one-among.us/favicon.png", 
-	"des": "那些秋叶"
+        "姓名": "那些秋叶", 
+	"链接": "https://www.one-among.us/", 
+	"简介": "那些秋叶",
+	"图标": "https://www.one-among.us/favicon.png"
   },
   {
-    "name": "MtfWiki", 
-	"link": "https://mtf.wiki/", 
-	"avatar": "https://mtf.wiki/new/mtf-wiki-square.svg", 
-	"des": "如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。"
+        "姓名": "MtfWiki", 
+	"链接": "https://mtf.wiki/", 
+	"简介": "如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。",
+	"图标": "https://mtf.wiki/new/mtf-wiki-square.svg"
   },
   {
-    "name": "Группа компаний «Калашников»", 
-	"link": "https://kalashnikovgroup.ru/", 
-	"avatar": "https://kalashnikov.akamaized.net/favicon/apple-icon-72x72.png", 
-	"des": "Группа компаний «Калашников»"
+        "姓名": "Группа компаний «Калашников»", 
+	"链接": "https://kalashnikovgroup.ru/", 
+	"简介": "Группа компаний «Калашников»"，
+	"图标": "https://kalashnikov.akamaized.net/favicon/apple-icon-72x72.png"
   },
   {
-    "name": "杨冬监控", 
-	"link": "https://stats.uptimerobot.com/5xJMKTMAB6", 
-	"avatar": "https://xn--z7qs34c.top/avatar.jpeg", 
-	"des": "本站服务监控系统"
+        "姓名": "Eltrac", 
+	"链接": "https://guhub.cn/", 
+	"简介": "暗夜行路，终遇奇迹。",
+	"图标": "https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpeg", 
   },
   {
-    "name": "Eltrac", 
-	"link": "https://guhub.cn/", 
-	"avatar": "https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpeg", 
-	"des": "暗夜行路，终遇奇迹。"
-  },
-  {
-    "name": "杨冬blog", 
-	"link": "https://xn--z7qs34c.top/", 
-	"avatar": "https://xn--z7qs34c.top/avatar.jpeg", 
-	"des": "站在西伯利亚的最顶端"
+        "姓名": "杨冬blog", 
+	"链接": "https://D0N2.in", 
+	"简介": "站在西伯利亚的最顶端",
+	"图标": "https://d0n2.in/avatar.jpeg"
   },
   {
     "name": "Dorf表白墙", 

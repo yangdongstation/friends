@@ -1,55 +1,43 @@
 {
  "My friends": [
    {
-        "姓名": "那些秋叶", 
+        "名称": "那些秋叶", 
 	"链接": "https://www.one-among.us/", 
 	"简介": "那些秋叶",
 	"图标": "https://www.one-among.us/favicon.png"
   },
   {
-        "姓名": "MtfWiki", 
+        "名称": "MtfWiki", 
 	"链接": "https://mtf.wiki/", 
 	"简介": "如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。",
 	"图标": "https://mtf.wiki/new/mtf-wiki-square.svg"
   },
   {
-        "姓名": "Группа компаний «Калашников»", 
+        "名称": "Группа компаний «Калашников»", 
 	"链接": "https://kalashnikovgroup.ru/", 
 	"简介": "Группа компаний «Калашников»"，
 	"图标": "https://kalashnikov.akamaized.net/favicon/apple-icon-72x72.png"
   },
   {
-        "姓名": "Eltrac", 
+        "名称": "Eltrac", 
 	"链接": "https://guhub.cn/", 
 	"简介": "暗夜行路，终遇奇迹。",
 	"图标": "https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpeg", 
   },
   {
-        "姓名": "杨冬blog", 
+        "名称": "杨冬blog", 
 	"链接": "https://D0N2.in", 
 	"简介": "站在西伯利亚的最顶端",
 	"图标": "https://d0n2.in/avatar.jpeg"
   },
   {
-    "name": "Dorf表白墙", 
+        "名称": "Dorf表白墙", 
 	"link": "https://dorf.top/", 
 	"avatar": "https://dorf.top/assets/img/favicon.ico", 
 	"des": "来表白吧（（"
   },
   {
-    "name": "DorfWhisper", 
-	"link": "https://w.dorf.top/", 
-	"avatar": "https://dorf.top/assets/img/favicon.ico", 
-	"des": "是悄悄话哦（（"
-  },
-  {
-    "name": "DorfChat", 
-	"link": "https://chat.dorf.top/", 
-	"avatar": "https://dorf.top/assets/img/favicon.ico", 
-	"des": "是聊天室哦（（"
-  },
-  {
-    "name": "丧狼", 
+        "名称": "丧狼", 
 	"link": "https://1949.su/", 
 	"avatar": "https://1949.su/wp-content/uploads/2022/02/aelq5-z4wad-001.ico", 
 	"des": "Mourning Wolf"
